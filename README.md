@@ -32,8 +32,26 @@ Antes de partir para o desenvolvimento da aplicação com React Js, testei as fu
 - [Protótipo mobile](https://xd.adobe.com/view/946eaa3a-3b9f-48a2-7b04-441fe5b7a1e2-e25f/)
 - [Protótipo desktop](https://tripzil.vercel.app/)
 
+## 📝 Clone do Repositório 
 
-<h2 id="autor"> Autor </h2>
+```bash
+# Clonar Repositório 
+$ git clone https://github.com/Igorlemos99/Tripzil-landing-page.git
+
+# Ir para a pasta de arquivos
+$ cd tripzil
+
+# Instalar Dependências
+$ yarn ou npm
+
+# Rodar Aplicação
+$ yarn start
+
+# Acesso localhost
+http://localhost:3000
+```
+
+<h2 id="autor"> 👷 Autor </h2>
 <img width="200" border-radius="150px" height="auto" alt="layout"
     title="Igior" src="https://media-exp1.licdn.com/dms/image/C4D03AQF6PnfKmfwi1w/profile-displayphoto-shrink_200_200/0/1603248583553?e=1620259200&v=beta&t=A9gOuU7EqFVPbt_HNI2-W98eUFHBH50HdKqnf3UHNXM"/>
 
