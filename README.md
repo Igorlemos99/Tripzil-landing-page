@@ -1,7 +1,13 @@
-# Langing page Tripzil
-Landing page desenvolvida com React Js e Styled Components.
+
+
+<h1 align="center"> 
+ Langing page Tripzil
+</h1>
+
+<p align="center"> Landing page desenvolvida com React Js e Styled Components. </p>
 
 ![](https://github.com/Igorlemos99/Tripzil-landing-page/blob/main/celulares_read.png)
+
 
 ## 🚀 Sobre o projeto
 O objetivo da landing page é promover o aplicativo de estudo de caso Tripzil, uma plataforma capaz de conectar pessoas e agências de turismo e excursões no Brasil. [Neste link](https://tripzil.vercel.app/), você pode conferir o resultado da aplicação responsiva desenvolvida com React JS.
