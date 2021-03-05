@@ -29,7 +29,7 @@ A seguir, estão as ferramentas que utilizei para desenvolver a interface do pro
 
 Antes de partir para o desenvolvimento da aplicação com React Js, testei as funcionalidades e definição de layout que deu vida a UI do projeto que é possível conferir visitando o feito pelo Abode Xd.
 
-- [Protótipo mobile](https://tripzil.vercel.app/)
+- [Protótipo mobile](https://xd.adobe.com/view/946eaa3a-3b9f-48a2-7b04-441fe5b7a1e2-e25f/)
 - [Protótipo desktop](https://tripzil.vercel.app/)
 
 
