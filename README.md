@@ -32,6 +32,11 @@ Antes de partir para o desenvolvimento da aplicação com React Js, testei as fu
 - [Protótipo mobile](https://xd.adobe.com/view/946eaa3a-3b9f-48a2-7b04-441fe5b7a1e2-e25f/)
 - [Protótipo desktop](https://tripzil.vercel.app/)
 
+## 📈 Layout Final 
+
+[Neste link](https://tripzil.vercel.app/), você pode conferir o deploy da aplicação responsiva para a web. 
+
+
 ## 📝 Clone do Repositório 
 
 ```bash
