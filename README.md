@@ -21,7 +21,6 @@ A seguir, estão as ferramentas que utilizei para desenvolver a interface do pro
 
 - [ReactJS](https://reactjs.org)
 - [Styled Components](https://styled-components.com/)
-- [NodeJS](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com) or Npm
 - [VSCode](https://code.visualstudio.com)
 - [Adobe Xd](https://www.adobe.com/br/products/xd.html)
@@ -34,4 +33,11 @@ Antes de partir para o desenvolvimento da aplicação com React Js, testei as fu
 - [Protótipo desktop](https://tripzil.vercel.app/)
 
 
+<h2 id="autor"> Autor </h2>
+<img width="200" border-radius="150px" height="auto" alt="layout"
+    title="Igior" src="https://media-exp1.licdn.com/dms/image/C4D03AQF6PnfKmfwi1w/profile-displayphoto-shrink_200_200/0/1603248583553?e=1620259200&v=beta&t=A9gOuU7EqFVPbt_HNI2-W98eUFHBH50HdKqnf3UHNXM"/>
 
+Por Igor Lemos 👋🏽 Encontre-me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-igorlemos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-lemos-19b522156/)](https://www.linkedin.com/in/igor-lemos-19b522156/)
+[![Gmail Badge](https://img.shields.io/badge/-matheusjesusigor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusjesusigor@gmail.com)](mailto:matheusjesusigor@gmail.com)
