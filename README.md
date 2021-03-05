@@ -7,7 +7,7 @@
 <p align="center"> Landing page desenvolvida com React Js e Styled Components. </p>
 
 
-![](https://github.com/Igorlemos99/Tripzil-landing-page/blob/main/Grupo%202035.png)
+![](https://github.com/Igorlemos99/Tripzil-landing-page/blob/main/Celulares_img.png)
 
 
 ## 🚀 Sobre o projeto
