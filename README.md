@@ -6,6 +6,8 @@
 
 <p align="center"> Landing page desenvolvida com React Js e Styled Components. </p>
 
+<img width="600" style="border-radius: 10px" height="auto" alt="level.up" title="Level Up" src="public/assets/login.png" />
+
 ![](https://github.com/Igorlemos99/Tripzil-landing-page/blob/main/celulares_read.png)
 
 
